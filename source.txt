@@ -1,0 +1,6 @@
+- BBC News
+  https://www.kaggle.com/yufengdev/bbc-fulltext-and-category
+- Anime
+  https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews
+- IMDB Indonesian movie
+  https://www.kaggle.com/antoniuscs/imdb-synopsis-indonesian-movies
