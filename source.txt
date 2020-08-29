@@ -8,5 +8,5 @@
   https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data
 - Australia Weather
   https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
-- Tokyo Weather
-  https://www.kaggle.com/loovmj/tokyo-weather-data?select=tokyo_data.csv
+- Air Quality
+  https://www.kaggle.com/debanganthakuria/air-quality-index
