@@ -10,3 +10,5 @@
   https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 - Air Quality
   https://www.kaggle.com/debanganthakuria/air-quality-index
+- Szeged Weather
+  https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv
