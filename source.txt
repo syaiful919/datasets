@@ -6,3 +6,5 @@
   https://www.kaggle.com/antoniuscs/imdb-synopsis-indonesian-movies
 - Delhi Climate
   https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data
+- Australia_weather
+  https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
